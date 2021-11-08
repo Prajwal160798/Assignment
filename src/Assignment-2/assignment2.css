@@ -5,3 +5,75 @@
 width: 100%;
 height: 100%;
 }
+.nav{
+    margin-left: 22vw;
+    padding-right: 5vw;
+    padding-top: 2vh;
+    margin-right: 22vw;
+    text-align: center;
+}
+.header-2{
+width: 98vw;
+border-style: groove;
+height: 5vh;
+margin-top: 0.5vh;
+margin-bottom: 0.5vh;
+}
+a{
+    color:rgb(36, 36, 87);
+    margin-right: 6.82vw;
+}
+.logo{
+    padding-top: 2vh;
+    padding-left: 2vh;
+    float: left;
+    width: 6vw;
+    height:6vh;
+}
+.search{
+    float: right;
+    padding-right: 3vh;
+    padding-top: 3.5vh;
+}
+.header{
+    height:10vh;
+    width: 98vw;
+    border-style: groove;
+    background-color: rgb(193, 208, 236);
+}
+.aside{
+    border-style: groove;
+    width: 15vw;
+    float:left;
+    height: 65vh;
+}
+li{
+    padding-top: 5%;
+}
+#right-sidebar-menu{
+    border-style: groove;
+    width: 15vw;
+    float: right;
+    height: 65vh;
+}
+.post-img{
+    width:12vw;
+    padding-left: 7.2vw;
+    padding-top: 4.5vh;
+}
+#main-content-section{
+    width: 66.5vw;
+    margin-left: 15.9vw;
+    height: 65vh;
+    border-style: groove;
+}
+#page-footer{
+    width: 98vw;
+    border-style: groove;
+    margin-top: 1vh;
+    text-align: center;
+}
+.inline-block{
+    display: block;
+    border-style: solid;
+} 
